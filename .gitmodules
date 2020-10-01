@@ -1,0 +1,15 @@
+[submodule "midpoint-grpc"]
+	path = midpoint-grpc
+	url = https://github.com/openstandia/midpoint-grpc
+[submodule "keycloak-grpc"]
+	path = keycloak-grpc
+	url = https://github.com/openstandia/keycloak-grpc
+[submodule "keycloak-midpoint-grpc-client"]
+	path = keycloak-midpoint-grpc-client
+	url = https://github.com/openstandia/keycloak-midpoint-grpc-client
+[submodule "connector-amazon-cognito-user-pool"]
+	path = connector-amazon-cognito-user-pool
+	url = https://github.com/openstandia/connector-amazon-cognito-user-pool
+[submodule "connector-keycloak"]
+	path = connector-keycloak
+	url = https://github.com/openstandia/connector-keycloak
